@@ -1,0 +1,20 @@
+body{
+    background-image: url(9.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.cv{
+    color: white;
+    padding: 1rem;
+    background-color: rgb(172, 132, 59);
+    margin-right: 73rem;
+    border-radius: 5rem;
+}
+.cv:hover{
+    background-color: rgb(16, 102, 102);
+    color: aliceblue;
+}
+.cv a{
+    text-decoration: none;
+    color: antiquewhite;
+}

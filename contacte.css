@@ -1,0 +1,23 @@
+body{ 
+    background-image: url(10.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+
+}
+.contact{
+    color: #ffff;
+}
+.info{
+    width: 350px;
+    height: 300px;
+    color: #fff;
+    padding-left: 2rem;
+    background-color: rgb(110, 170, 162);
+    border-radius: 2rem;
+    padding-top: 20px;
+}
+.information img{
+    width: 60px;
+    height: 70px;
+}
+
